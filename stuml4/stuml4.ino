@@ -1,3 +1,7 @@
+//A0,A1,A2,A3,A4 are connected to 10k potentiometers
+//A4 is responsible for the speed
+//A0-A3 are responsible for the midi note
+
 
 int min = 34;   //midi note
 int max = 84;   //midi note
